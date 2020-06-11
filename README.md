@@ -1,0 +1,1 @@
+# odoodb-migrator
