@@ -54,7 +54,7 @@ account_invoice_import_wizard
 account_invoice_import_wizard_ir_attachment_rel
 account_invoice_line
 account_invoice_line_tax
-pccount_invoice_payment_rel
+account_invoice_payment_rel
 account_invoice_refund
 account_invoice_send
 account_invoice_tax
